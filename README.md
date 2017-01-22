@@ -1,3 +1,3 @@
 # Playing-Functional
 
-Some Algorithmis Problems using the functional approach.
+Some Algorithms Problems using the functional approach.
